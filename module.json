@@ -7,8 +7,8 @@
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "0.8.9",
   "url": "https://github.com/Worempie/compendium",
-  "manifest": "https://github.com/Worempie/compendium/releases/download/release/module.json",
-  "download": "https://github.com/Worempie/compendium/releases/download/release/compendium.zip",
+  "manifest": "https://github.com/Worempie/compendium/releases/download/2.2.1/module.json",
+  "download": "https://github.com/Worempie/compendium/releases/download/2.2.1/compendium.zip",
   "packs": [
    {
      "name": "items",
