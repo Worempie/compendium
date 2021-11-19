@@ -7,44 +7,50 @@
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "0.8.9",
   "url": "https://github.com/Worempie/compendium",
-  "manifest": "https://github.com/Worempie/compendium/releases/download/2.0.0/module.json",
-  "download": "https://github.com/Worempie/compendium/releases/download/2.0.0/compendium.zip",
+  "manifest": "https://github.com/Worempie/compendium/releases/download/2.1.0/module.json",
+  "download": "https://github.com/Worempie/compendium/releases/download/2.1.0/compendium.zip",
   "packs": [
    {
      "name": "items",
      "label": "Items",
      "path": "packs/items.db",
-     "entity": "Item"
+     "entity": "Item",
+     "module": "Compendium Module"
    },
    {
      "name": "classFeatures",
      "label": "Class Features",
      "path": "packs/features.db",
-     "entity": "Item"
+     "entity": "Item",
+     "module": "Compendium Module"
    },
    {
      "name": "classes",
      "label": "Classes",
      "path": "packs/classes.db",
-     "entity": "Item"
+     "entity": "Item",
+     "module": "Compendium Module"
    },
    {
      "name": "spells",
      "label": "Spells",
      "path": "packs/spells.db",
-     "entity": "Item"
+     "entity": "Item",
+     "module": "Compendium Module"
    },
    {
      "name": "monsters",
      "label": "Monsters",
      "path": "packs/monsters.db",
-     "entity": "Actor"
+     "entity": "Actor",
+     "module": "Compendium Module"
    },
    {
      "name": "rules",
      "label": "Rules",
      "path": "packs/rules.db",
-     "entity": "JournalEntry"
+     "entity": "JournalEntry",
+     "module": "Compendium Module"
    }
  ],
 }
