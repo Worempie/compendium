@@ -1,0 +1,15 @@
+{
+  "name": "Compendium Module",
+  "title": "Compendium Module",
+  "description": "test for releases",
+  "author": "Worempie",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": [
+    "init.js"
+  ],
+  "url": "https://github.com/Worempie/compendium",
+  "manifest": "",
+  "download": ""
+}
